@@ -1,0 +1,7 @@
+name: create-json Pologne
+      id: create-json Pologne
+      uses: decadeus/create-json@1.1.2
+      with:
+        name: "pologne.json"
+        json: ${{ secrets.POLOGNE_JSON }}
+        dir: 'src/'
