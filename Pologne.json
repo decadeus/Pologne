@@ -1,0 +1,15 @@
+{
+  "Ecommerce" : {
+    "Achicmood" : {
+      "Description" : "La GroceryItemstructure a un initialiseur qui remplit ses propriétés à l'aide d'un DataSnapshot. La valeur d'un instantané est de type AnyObjectet peut être un dictionnaire, un tableau, un nombre ou une chaîne. Après avoir créé une instance de GroceryItem, il l'a ajoutée au tableau qui contient la dernière version des données. Remplacez itemspar la dernière version des données, puis rechargez la vue de table",
+      "Mail" : "Achicmood@",
+      "URL" : "URLACM"
+    },
+    "Commerce" : {
+      "Restau1" : {
+        "Mail" : "Restau1@",
+        "URL" : "URLResatu"
+      }
+    }
+  }
+}
